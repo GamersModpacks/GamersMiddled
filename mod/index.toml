@@ -2,15 +2,71 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "896fe28df74c8c9e3506445d3954901137a99a0c071d0ec309659cb6d51e906a"
+hash = "9485928d2aaaeebbee844ed0dbd6fa49cec40a155dac1d4d662c5df70e001bd1"
 
 [[files]]
 file = "config/create-client.toml"
 hash = "57e54ba2fc5fed6544842876f9e63e732e280f4cadad732b08aa4a3928559f22"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "469acc0206b940be75e9bb9b4d269f640661721ff8132b0fdc653dea2756f6a4"
+
+[[files]]
 file = "config/enigmaticlegacy-client.omniconf"
 hash = "c640bb9d1d1d9a47e5a113126e384e9bccf5409bc52837e28c9622cb8c399d3b"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "10fe4cf995e08ce12cb0a0e221427ffd70802593762aaedae485add88d7dc1fb"
+
+[[files]]
+file = "config/fancymenu/custom_locals/pack/en_us.local"
+hash = "c2f0cef18f72cadbbcc93510fef14946e56d4434fef34a352734c9214c310bee"
+
+[[files]]
+file = "config/fancymenu/custom_locals/pack/ru_ru.local"
+hash = "30ba07f938617c4a3c533a10cf24e579c0a80061a02d7236ffcf11aba2d3c51a"
+
+[[files]]
+file = "config/fancymenu/custom_locals/pack/uk_ua.local"
+hash = "4757c3e9016a7c9886651abe07f37c94084e52cc87f4a51afd5adca2c42bf34b"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
+
+[[files]]
+file = "config/fancymenu/customization/boot_screen.txt"
+hash = "8cd2db213f13fe82d3f8c6cb06100ed0397b068b0861a73dae06b33994267d7c"
+
+[[files]]
+file = "config/fancymenu/customization/main_menu.txt"
+hash = "39e8792ffc173344e1335cdddc05d954e0fd6bf68a8b936393d69bb42610d3ec"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "f18121a44fc39ed5f45c1af13e913327d52be8634179992558491808f3c0b5a8"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "29426cd8db794b4e96417be9418cadfb500c2af461c7ffe79a70d501bb3600cb"
+
+[[files]]
+file = "config/fancymenu/resources/background.png"
+hash = "fcf1915047803d27d7506e75c81462b8ade938c6130dadfe76936dc120737d9a"
+
+[[files]]
+file = "config/fancymenu/resources/logo.png"
+hash = "b7def7dc5f10651ef5c0fb177642a748b095dc4abfd58fdead278b4e03a29899"
+
+[[files]]
+file = "config/fancymenu/resources/pack_version.txt"
+hash = "d0ff5974b6aa52cf562bea5921840c032a860a91a3512f7fe8f768f6bbe005f6"
+
+[[files]]
+file = "config/iceandfire-client.toml"
+hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
 file = "config/mythicbotany.json5"
@@ -21,37 +77,33 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
+file = "config/openloader/data/Create+Airship+Recipes+1.0.zip"
+hash = "30bc09ee11e56a066c68b78b843b4858fe0ecd57272e3b0066489789dab431a7"
+
+[[files]]
 file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
 hash = "e33602eeae50447d004c33c2ecbe8b9c6f9fd7a0b63b4d82ae94818f6e8172aa"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/GamersReloaded Resources/assets/apotheosis/lang/ru_ru.json"
+file = "config/openloader/resources/Eureka+Create+1.0.zip"
+hash = "782745e07d612cb285e0071ebb8ee9954bfb1879b8fde3998d9a2225a0cad097"
+
+[[files]]
+file = "config/openloader/resources/GamersMiddled Resources/assets/apotheosis/lang/ru_ru.json"
 hash = "5f4b6502fb99350ed5ef9ae59185603c24186235ac904f34fb5120bf2bbfe3f1"
 
 [[files]]
-file = "config/openloader/resources/GamersReloaded Resources/assets/create_sa/lang/ru_ru.json"
+file = "config/openloader/resources/GamersMiddled Resources/assets/create_sa/lang/ru_ru.json"
 hash = "3be370ffdc76622f3e2215072068cf053ee1fc29a4d8ca5fd2e0264dbc03ae9f"
 
 [[files]]
-file = "config/openloader/resources/GamersReloaded Resources/pack.mcmeta"
+file = "config/openloader/resources/GamersMiddled Resources/pack.mcmeta"
 hash = "6a6ebac7a4b043497eae05aec062495abebba7fff3456db9f0b3a844ad46b5a0"
 
 [[files]]
 file = "config/quark-common.toml"
 hash = "94e78cb8c6b66471e8e9a4967e157a313addababb86204cd459943c5487a82be"
-
-[[files]]
-file = "config/securitycraft-client.toml"
-hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
-
-[[files]]
-file = "config/vampirism-common.toml"
-hash = "a8646aa727a969ca67cf572aba9c95bc34694d681000292670d1f9e2d9702210"
-
-[[files]]
-file = "config/vampirism_integrations-common.toml"
-hash = "78b76a49dc17ab93ed084df8e24be82f745a36abc4f48c3d18a97a48fdee9a14"
 
 [[files]]
 file = "defaultconfigs/xaerominimap.txt"
@@ -137,6 +189,11 @@ hash = "938447d1a7b78c6a03b577d2f60a0fcf9ca3a5403304a9bdc201b9dbeacb89be"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "58424badda6989de55a21585f4a7d1c9150edb23a0c82ff27f6f713e4618d581"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
 metafile = true
@@ -147,8 +204,18 @@ hash = "605f32ad7d8999c3bbd4af14926ef0f8566142b73d4d0e8a732e6eef93a95ac6"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "55de68c78ddafee9d891733618788aae80b8e47ca80cb1006cadc8f7d7d6aa0f"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "65400a30e66e371fae9c8ee34e6cdf1c82abd67b9a4cc1d6234f0570d50113c6"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "09d8f078e2ca80d580b95b83177a27784ef304e01d27e54d7c6135a6f8c6a543"
 metafile = true
 
 [[files]]
@@ -164,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "48bee51017cb5a5fce0780e3ac092b73d98cb5ce22aa4d8ce32d34fbb9b53b11"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "40ca9c2ccea6c3132a7877ef1c369072b86b8b8e3f724f644355e4d6d81c3d3e"
 metafile = true
 
 [[files]]
@@ -192,6 +264,11 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "075a70282743ae2ebd01224012873f178e4088f257969b74e35bb0db579c6611"
+metafile = true
+
+[[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "8b8f7f9f18270cbf648dd79c0447cc3ee382269ab90913e329acbe6eb59fe3c3"
 metafile = true
@@ -199,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "60a421597c179801444b868859cdc1f26832f1849545683d9ae7ad1d8d8776d5"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "51d72f9126ded6e791bd2cc85c1d483a6179606f77cdd57ebbcbd09eb2075f68"
 metafile = true
 
 [[files]]
@@ -222,6 +304,11 @@ hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
 metafile = true
 
 [[files]]
+file = "mods/materialis.pw.toml"
+hash = "284cbee102487e34c9824e279f90eaf38d57fbbac5f18a18b66251d91c732f56"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "b009c4c71f9159d0b12817b40b179a7f04ca5a8eaccf607712ca5aa86d31ddae"
 metafile = true
@@ -234,6 +321,16 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "840b4fbba0e52bba1805a42e7a1d6faa424a23cc56c4ddeb4ffdffa6407fd0cb"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "b640925827399d0b82c47934c6fda07b88b543387cf783f5b69f8565544864e9"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "211ad2c36f269243b437912ea2a69feb758966c63c25c39620b436d65404669a"
 metafile = true
 
 [[files]]
@@ -268,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+hash = "4d6310ca9a4cf607116540cfb0282536728d90852388f0abca94c820f92a4482"
 metafile = true
 
 [[files]]
@@ -362,6 +459,11 @@ hash = "7dfb918a920c3bb82a663a71571e9da813fe633ba04ea2cfb4b040c6ab0a2705"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "01399fef27404a511bfc9b6dad93773e1847c394e86d258d4fa1f3ef9171288c"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "95327920e111cbc8f097f5cd8d6af3a968484d7c2d349a40d33b974e44eaadf2"
 metafile = true
@@ -384,14 +486,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "2eae47e79517a349e5c76ab4228254d1cbebcdaeb32ee1ee69026b888caaf970"
-metafile = true
-
-[[files]]
-file = "resourcepacks/eureka-create-airships-datapack.pw.toml"
-hash = "da4939c4bf77f0edb08c1a556c60481d04de742d5e6f0cafe6882965ad3d5d93"
-metafile = true
-
-[[files]]
-file = "resourcepacks/eureka-create-airships.pw.toml"
-hash = "223d3e8fafb2ecbff94261b8ff4bbf9c9c820b9295cf7da56f2a11761820a72a"
 metafile = true
