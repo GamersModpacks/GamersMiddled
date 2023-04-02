@@ -98,6 +98,10 @@ file = "config/openloader/resources/GamersMiddled Resources/assets/create_sa/lan
 hash = "3be370ffdc76622f3e2215072068cf053ee1fc29a4d8ca5fd2e0264dbc03ae9f"
 
 [[files]]
+file = "config/openloader/resources/GamersMiddled Resources/assets/untamedwilds/lang/ru_ru.json"
+hash = "4271c942f4ec7a76661abe58d3fa316d6b05a6df90971ec7a013a5b7cc6ba7e6"
+
+[[files]]
 file = "config/openloader/resources/GamersMiddled Resources/pack.mcmeta"
 hash = "6a6ebac7a4b043497eae05aec062495abebba7fff3456db9f0b3a844ad46b5a0"
 
@@ -405,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
+hash = "69d06ddacec01d95fa77be07b7303b7cd10362dca922d13509649cb9ef8dbdc5"
 metafile = true
 
 [[files]]
@@ -465,12 +469,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "95327920e111cbc8f097f5cd8d6af3a968484d7c2d349a40d33b974e44eaadf2"
+hash = "f1da4fb505241e6ca123ca0812fe022d166ae7244e09e67fe7bedddd2d65da67"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9c42489277765c639c08269efa5bc12828d368ad544de063de180624f047d154"
+hash = "583f97b6017f0d7e5f608217bee8a69ae0cdd00bab084fc371d87b193b81baf6"
 metafile = true
 
 [[files]]
