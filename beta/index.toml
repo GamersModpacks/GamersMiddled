@@ -156,7 +156,7 @@ file = "config/tips.json"
 hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 
 [[files]]
-file = "config/vs_core_server.json"
+file = "config/valkyrienskies/vs_core_server.json"
 hash = "25caa2de3e39df8191eb1d339528386940a6f11c7a731819773d37aeb1c5ba28"
 
 [[files]]
@@ -244,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "a18604cb3cb735f5c2490713a286c97ae030b7e616ef8d445f25e3c336ea3847"
 metafile = true
 
 [[files]]

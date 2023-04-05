@@ -161,6 +161,10 @@ hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
