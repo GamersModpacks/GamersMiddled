@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Biomes O' Plenty"
+filename = "DynamicTreesBOP-1.18.2-3.0.0-Beta3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "848ba46f59e66e497ef8570824541af17ddcef72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4421565
+project-id = 289529
