@@ -119,12 +119,15 @@ hash = "d9513ec7fbfa96215096bee2dca8abb8838603bad32ecba348b109133fca1e77"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
-hash = "d8b817327cb0d235671c9970acebd69307c4ab8ec12f7d473f49f56374ef5731"
 metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "bf3d5e86acf5331a02cbf6d9717c94c55fd4fc675f8690a51cd13f8ba499e8b6"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
 metafile = true
 
 [[files]]
@@ -213,6 +216,14 @@ hash = "55de68c78ddafee9d891733618788aae80b8e47ca80cb1006cadc8f7d7d6aa0f"
 metafile = true
 
 [[files]]
+file = "mods/dtbop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-vampirism.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "65400a30e66e371fae9c8ee34e6cdf1c82abd67b9a4cc1d6234f0570d50113c6"
 metafile = true
@@ -239,7 +250,6 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "40ca9c2ccea6c3132a7877ef1c369072b86b8b8e3f724f644355e4d6d81c3d3e"
 metafile = true
 
 [[files]]
@@ -259,7 +269,6 @@ metafile = true
 
 [[files]]
 file = "mods/forgeendertech.pw.toml"
-hash = "9b1f97e0a890618404ebeb1821cf9cf366c8869b958a516cf4d5f6b8d2e6d910"
 metafile = true
 
 [[files]]
@@ -314,7 +323,6 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "b009c4c71f9159d0b12817b40b179a7f04ca5a8eaccf607712ca5aa86d31ddae"
 metafile = true
 
 [[files]]
@@ -404,7 +412,6 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2000e47106557568c21139968415b865dc96bc645c6219ede6fe02304a42ab09"
 metafile = true
 
 [[files]]
@@ -455,6 +462,14 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "25c81d925a001d1ec7d4f95825048d37a839957488d65484135e9e7618a67f96"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-become-a-vampire.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
 metafile = true
 
 [[files]]

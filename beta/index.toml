@@ -6,7 +6,7 @@ hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9485928d2aaaeebbee844ed0dbd6fa49cec40a155dac1d4d662c5df70e001bd1"
+hash = "c28400e8f8b003296a6c8fb655801999199a5edbe2f548051ae52c76e3a08615"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -70,7 +70,7 @@ hash = "fcf1915047803d27d7506e75c81462b8ade938c6130dadfe76936dc120737d9a"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "aa672d37ec3c3f8002f2a87bba68fd3c2281f1935020cc0e2840276a9de14d78"
+hash = "6b56de731bba7d2a340b35e1f8639e880663c2192541e4ab81895bf0e1f11798"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
@@ -78,7 +78,7 @@ hash = "b7def7dc5f10651ef5c0fb177642a748b095dc4abfd58fdead278b4e03a29899"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "d51e6ec94058554a84558a5b402ee6ef5fdf5455e35c902feda61cda8752943a"
+hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -156,6 +156,10 @@ file = "config/tips.json"
 hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 
 [[files]]
+file = "config/vs_core_server.json"
+hash = "25caa2de3e39df8191eb1d339528386940a6f11c7a731819773d37aeb1c5ba28"
+
+[[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 
@@ -169,7 +173,7 @@ hash = "d9513ec7fbfa96215096bee2dca8abb8838603bad32ecba348b109133fca1e77"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
-hash = "d8b817327cb0d235671c9970acebd69307c4ab8ec12f7d473f49f56374ef5731"
+hash = "012ead4885898c755b5cc67f741aeb6a15193f294e70e80ef2c79aa1e7d4985b"
 metafile = true
 
 [[files]]
@@ -183,8 +187,13 @@ hash = "bf3d5e86acf5331a02cbf6d9717c94c55fd4fc675f8690a51cd13f8ba499e8b6"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "39a53b27a76906131170e96a602e7f4c7ae2b9667d6c53fb9b1fa26a5aeeb389"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "130a63c55f46b5f1f0e72ce3433e2d095e7ed8b4f696a11db0d3506f6696130e"
+hash = "13950363fba2c3f45ac39d20e9d63f39b4e9120de8e97c7af59bf36412e085e6"
 metafile = true
 
 [[files]]
@@ -269,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "2bfca7a4300b54b98ca96f631c55236def2ab9dd82f18c255cb5d0fa8cde225c"
+hash = "c79b4ff9b5ce619278bc4704960d4cbb78d943153f4a7560a84b000a64b2c019"
 metafile = true
 
 [[files]]
@@ -333,6 +342,16 @@ hash = "55de68c78ddafee9d891733618788aae80b8e47ca80cb1006cadc8f7d7d6aa0f"
 metafile = true
 
 [[files]]
+file = "mods/dtbop.pw.toml"
+hash = "26d2f549054472b99e29ee1086435acc28113f83c9a0252c857e390b679a8b3a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-vampirism.pw.toml"
+hash = "4c8a44bcdd1a7a1ad55e51bc949531e444a2d6f1dab8eb331897d2624185097e"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "65400a30e66e371fae9c8ee34e6cdf1c82abd67b9a4cc1d6234f0570d50113c6"
 metafile = true
@@ -369,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "40ca9c2ccea6c3132a7877ef1c369072b86b8b8e3f724f644355e4d6d81c3d3e"
+hash = "e39334ea518a69c20c27f30589b04a0853278950535c696b4ca9a9721f39be88"
 metafile = true
 
 [[files]]
@@ -404,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeendertech.pw.toml"
-hash = "9b1f97e0a890618404ebeb1821cf9cf366c8869b958a516cf4d5f6b8d2e6d910"
+hash = "2ff66f058471ccddd7ce1d07cd733d00234eba97b54385ea6c9f2ef7f4bcc6cb"
 metafile = true
 
 [[files]]
@@ -504,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "b009c4c71f9159d0b12817b40b179a7f04ca5a8eaccf607712ca5aa86d31ddae"
+hash = "8fee833b04393a5d4e0e366c9d29fa6945271365b6e498cc2c8d7876fdeb34ac"
 metafile = true
 
 [[files]]
@@ -624,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2000e47106557568c21139968415b865dc96bc645c6219ede6fe02304a42ab09"
+hash = "efa5e3be8636b0ab9a11191c3e09fcfa284f456a63d7096cd6e62b1405c6e831"
 metafile = true
 
 [[files]]
@@ -700,6 +719,16 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "25c81d925a001d1ec7d4f95825048d37a839957488d65484135e9e7618a67f96"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-become-a-vampire.pw.toml"
+hash = "4e10abf415163f490fe3ca8f353b7564dd97086b8d89c84e3e8edccf2a027799"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "aa3b5446770af49e5555517eeb925d821b093dd8235ff53d08e94b8b10a91c5f"
 metafile = true
 
 [[files]]
