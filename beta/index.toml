@@ -6,7 +6,7 @@ hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c28400e8f8b003296a6c8fb655801999199a5edbe2f548051ae52c76e3a08615"
+hash = "d8e6564aade98ba0ad5939f8128feb6b95fb125323fbf209ae7a95629dedbabb"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -30,7 +30,19 @@ hash = "c640bb9d1d1d9a47e5a113126e384e9bccf5409bc52837e28c9622cb8c399d3b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "10fe4cf995e08ce12cb0a0e221427ffd70802593762aaedae485add88d7dc1fb"
+hash = "72425448b70310360f03b15d8bf74169d565c232374356c9335fcad2d133dca3"
+
+[[files]]
+file = "config/fancymenu/custom_locals/middled/en_us.local"
+hash = "e8d241ba7b8d02b3dd936760536a3e6d7c9e022133c14460c14c887623238bf2"
+
+[[files]]
+file = "config/fancymenu/custom_locals/middled/ru_ru.local"
+hash = "89cbdc81d4a3709e01795ef5807034e543b2c71ca63f0bb8a7adbf9bdcafb38a"
+
+[[files]]
+file = "config/fancymenu/custom_locals/middled/uk_ua.local"
+hash = "7f5a5a176e9790b4578585b59760c3ba16f4f822fc5299f1f9e5b396c1af0ce9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/pack/en_us.local"
@@ -54,7 +66,7 @@ hash = "8cd2db213f13fe82d3f8c6cb06100ed0397b068b0861a73dae06b33994267d7c"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "39e8792ffc173344e1335cdddc05d954e0fd6bf68a8b936393d69bb42610d3ec"
+hash = "db2ee26046ccc8a7d40c1b637c4201927278e714beffa2db84423186b1e71cd0"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -78,7 +90,7 @@ hash = "b7def7dc5f10651ef5c0fb177642a748b095dc4abfd58fdead278b4e03a29899"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
+hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -343,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "55de68c78ddafee9d891733618788aae80b8e47ca80cb1006cadc8f7d7d6aa0f"
+hash = "2fd139047b7d55f0143a51818fc847f2962334fa7bec6359440e86b45b8f18b2"
 metafile = true
 
 [[files]]
@@ -358,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "65400a30e66e371fae9c8ee34e6cdf1c82abd67b9a4cc1d6234f0570d50113c6"
+hash = "1f3f80a14941ae3392410ac00ddc0b17628938f24f12c7a1ae194f0cbabc4fb5"
 metafile = true
 
 [[files]]
@@ -368,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "9698d77c462cbf16a5c3db9bc3cea684b36f3a26ef9320683f38c9525c678948"
+hash = "03f5a2eb3c7c2c871f8a3b3ac0235291d41e70ac4baa22e9c9140e358b8773ab"
 metafile = true
 
 [[files]]
@@ -393,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "e39334ea518a69c20c27f30589b04a0853278950535c696b4ca9a9721f39be88"
+hash = "f6248c14d1f987a32cad414626a924d2026316e09bc63ec0bc36e0debb2ea676"
 metafile = true
 
 [[files]]
@@ -423,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
+hash = "6ecc85588f59802658278306802fe5617c282392bbfc6a229ddc430d66e98548"
 metafile = true
 
 [[files]]
@@ -453,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "8b8f7f9f18270cbf648dd79c0447cc3ee382269ab90913e329acbe6eb59fe3c3"
+hash = "f5f7180f179961bcc4d341922dfcd24a1ccd657f137dd290ef67f10aa196ebd8"
 metafile = true
 
 [[files]]
@@ -493,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "51d72f9126ded6e791bd2cc85c1d483a6179606f77cdd57ebbcbd09eb2075f68"
+hash = "73c49d7dae3c411d64ec5b77544d66e0cc513b5b37b9f70f80bf38a78d5f138a"
 metafile = true
 
 [[files]]
@@ -528,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "8fee833b04393a5d4e0e366c9d29fa6945271365b6e498cc2c8d7876fdeb34ac"
+hash = "823be8449119f81a2077c1fd250fe339d0e6c78b00e0b297df0ce46e6311962d"
 metafile = true
 
 [[files]]
