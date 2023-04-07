@@ -142,6 +142,10 @@ file = "config/openloader/resources/GamersMiddled Resources/assets/create_sa/lan
 hash = "3be370ffdc76622f3e2215072068cf053ee1fc29a4d8ca5fd2e0264dbc03ae9f"
 
 [[files]]
+file = "config/openloader/resources/GamersMiddled Resources/assets/curios/textures/gui/inventory.png"
+hash = "ac9e8cbafacd3d2c27724c27101ec8d3030e18fc2f36a243c2b30f6d5209918d"
+
+[[files]]
 file = "config/openloader/resources/GamersMiddled Resources/assets/untamedwilds/lang/ru_ru.json"
 hash = "4271c942f4ec7a76661abe58d3fa316d6b05a6df90971ec7a013a5b7cc6ba7e6"
 
