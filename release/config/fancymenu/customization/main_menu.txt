@@ -36,11 +36,6 @@ customization {
 }
 
 customization {
-  identifier = %id=604346%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = -100
@@ -167,7 +162,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = setbuttonlabel
-  value = %local:pack.button.mods%
+  value = {"placeholder":"local","values":{"key":"pack.button.mods"}}
 }
 
 customization {
@@ -291,7 +286,7 @@ customization {
   action = addsplash
   y = -28
   delayappearance = true
-  text = Full of stars!
+  text = An illusion! What are you hiding?
   delayappearanceeverytime = false
 }
 
@@ -312,7 +307,7 @@ customization {
   width = 195
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 3ee2b663-ae4d-40cd-97c8-2b294c674b101664124579128
-  y = -20
+  y = -10
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
@@ -325,18 +320,18 @@ customization {
   shadow = true
   delayappearanceseconds = 1.0
   scale = 1.0
-  source = %local:pack.base.motd%: {"placeholder":"randomtext","values":{"path":"/config/fancymenu/resources/basepack_version.txt","interval":"0"}}
+  source = {"placeholder":"local","values":{"key":"pack.base.motd"}} {"placeholder":"local","values":{"key":"pack.base.version"}}
   text_border = 0
   case_mode = normal
   fadein = true
   source_mode = direct
   line_spacing = 1
   fadeinspeed = 1.0
-  x = 611
+  x = 609
   width = 244
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 389448f3-0af4-4c3a-8534-0445c0c6b5131672686066232
-  y = -20
+  y = -21
   delayappearance = true
   alignment = right
   delayappearanceeverytime = false
@@ -349,7 +344,7 @@ customization {
   shadow = true
   delayappearanceseconds = 1.0
   scale = 1.0
-  source = %local:pack.middled.motd%: {"placeholder":"randomtext","values":{"path":"/config/fancymenu/resources/pack_version.txt","interval":"0"}}
+  source = {"placeholder":"local","values":{"key":"pack.mod.motd"}}: {"placeholder":"local","values":{"key":"pack.mod.version"}}
   text_border = 0
   case_mode = normal
   fadein = true
@@ -360,7 +355,7 @@ customization {
   width = 244
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 97a5783e-b5cb-4e07-a694-00bfd6dcfe481680888857205
-  y = -10
+  y = -21
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
