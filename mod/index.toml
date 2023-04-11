@@ -16,22 +16,7 @@ file = "config/enigmaticlegacy-client.omniconf"
 file = "config/fancymenu/config.txt"
 
 [[files]]
-file = "config/fancymenu/custom_locals/pack/en_us.local"
-
-[[files]]
-file = "config/fancymenu/custom_locals/pack/ru_ru.local"
-
-[[files]]
-file = "config/fancymenu/custom_locals/pack/uk_ua.local"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-
-[[files]]
-file = "config/fancymenu/customization/boot_screen.txt"
-
-[[files]]
-file = "config/fancymenu/customization/main_menu.txt"
+file = "config/fancymenu/custom_locals/mod/en_us.local"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -44,9 +29,6 @@ file = "config/fancymenu/resources/background.png"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
-
-[[files]]
-file = "config/fancymenu/resources/pack_version.txt"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -72,6 +54,9 @@ file = "config/openloader/resources/GamersMiddled Resources/assets/apotheosis/la
 
 [[files]]
 file = "config/openloader/resources/GamersMiddled Resources/assets/create_sa/lang/ru_ru.json"
+
+[[files]]
+file = "config/openloader/resources/GamersMiddled Resources/assets/curios/textures/gui/inventory.png"
 
 [[files]]
 file = "config/openloader/resources/GamersMiddled Resources/assets/untamedwilds/lang/ru_ru.json"
@@ -101,6 +86,10 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/armourers-workshop.pw.toml"
 metafile = true
 
 [[files]]
@@ -172,10 +161,6 @@ file = "mods/domum-ornamentum.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dtbop.pw.toml"
 metafile = true
 
@@ -204,19 +189,11 @@ file = "mods/eureka-ships.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-forge.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/flywheel.pw.toml"
 metafile = true
 
 [[files]]
@@ -232,15 +209,7 @@ file = "mods/ice-and-fire-dragons.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/konkrete.pw.toml"
 metafile = true
 
 [[files]]
