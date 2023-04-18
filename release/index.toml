@@ -50,11 +50,11 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "23e3e98f082e7f4527235b4dee0251f97defeb2b13a5834e3cbc39ab73f23d08"
+hash = "f186ceebc05a7e63a691de98186e319718198c74ad749706c5918581703d92fc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "f373be3697bdf24df695f12e21bb7ea17ef8cb288396557de8c282816488118b"
+hash = "72c84171dc14b775703254cccfc896b58f9b7ce6c2eedbe029938c56ace18617"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -66,7 +66,7 @@ hash = "8cd2db213f13fe82d3f8c6cb06100ed0397b068b0861a73dae06b33994267d7c"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "ee0b95b52b41520c1b3189f87795c1dc6a2624d58a077692c2a4e0b6a876cdb6"
+hash = "cb02ce35109b85061e557b9969937d410503d1f51db26e513a988baa432b9b54"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -87,6 +87,10 @@ hash = "b7def7dc5f10651ef5c0fb177642a748b095dc4abfd58fdead278b4e03a29899"
 [[files]]
 file = "config/forge-client.toml"
 hash = "a7c8e3756baa0003dd4ba52d742b7a27dd9751ce319066e181f71ff0875af1ca"
+
+[[files]]
+file = "config/fpsreducer/fpsreducer-client.toml"
+hash = "9026fdfd192fe1203b91cd48e3eb2c68cc55c1189fdd2afbba55c3fb13fd7fd2"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -180,12 +184,12 @@ file = "config/valkyrienskies/vs_core_server.json"
 hash = "25caa2de3e39df8191eb1d339528386940a6f11c7a731819773d37aeb1c5ba28"
 
 [[files]]
-file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
-hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
+file = "defaultconfigs/xaerominimap.txt"
+hash = "281c8f02f069b11d90bcf2df77544b6e236f29dd83f96a1c87a0eb7e53bd844c"
 
 [[files]]
-file = "defaultconfigs/xaerominimap.txt"
-hash = "90741f72845b38d63b542fefcdc4e67fd3c068e511cb53dd22db3975a7fc7f9c"
+file = "defaultconfigs/xaeroworldmap.txt"
+hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
 file = "mods/Structory-1.18.2-1.0.2.jar"
@@ -313,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "16feeedd5a2c886f702bdcc4b654f0a46ee91c4394ad1e2a1a7200c550f36996"
+hash = "d55316444d7e043f98be66c1bc2c321422dca793ac911036d9e38d5bc0ed6d9d"
 metafile = true
 
 [[files]]
@@ -448,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeendertech.pw.toml"
-hash = "2ff66f058471ccddd7ce1d07cd733d00234eba97b54385ea6c9f2ef7f4bcc6cb"
+hash = "a27a11227254429afc7d349e0edf8d874a1896f5887f8380f4e36a0f96679160"
 metafile = true
 
 [[files]]
@@ -543,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "823be8449119f81a2077c1fd250fe339d0e6c78b00e0b297df0ce46e6311962d"
+hash = "d2293f4c4900813cb2b8843735ff4fd4a66cae187d1c208cfc6c07e1a66ba71e"
 metafile = true
 
 [[files]]
@@ -603,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
-hash = "d540136a5c633ee989d2f8a90b1e31b49c43788f1b4cc2e8ba46a6ce122be77c"
+hash = "910a9f01a491851c46a0b2fec122b68f536cfd384e9ba81ff804ff11e0890700"
 metafile = true
 
 [[files]]
@@ -628,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "f0c1247bfed9665fec21cfddb498e667cddda40f794d870d5dfd1e2fad777feb"
+hash = "2fe5c063db5622e0e0a56f739230471de2dd26e08ec80d74fb9c5b2afbe67dc3"
 metafile = true
 
 [[files]]
@@ -668,12 +672,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "dce16844faf5cb005010aa4958ad2e80552c4890f06942c3526746846bc792cb"
+hash = "598fb0ff210d25e9c89975f740d1caebc869dad96c0a81a3c78eb90175745031"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "efa5e3be8636b0ab9a11191c3e09fcfa284f456a63d7096cd6e62b1405c6e831"
+hash = "1e6edc81e678ea6fd338ac67a769e25dc2a4a58fa2ff021ca069d0d37661ba68"
 metafile = true
 
 [[files]]
@@ -773,12 +777,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f1da4fb505241e6ca123ca0812fe022d166ae7244e09e67fe7bedddd2d65da67"
+hash = "6970ed87a904b104bd0af529401a3b76ae9514e8f071749e8a3a547408dc6a69"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "583f97b6017f0d7e5f608217bee8a69ae0cdd00bab084fc371d87b193b81baf6"
+hash = "b10d63af736277104c205ffcca727ee4b86d480cf3e0b2b52450f18552edc5a7"
 metafile = true
 
 [[files]]
