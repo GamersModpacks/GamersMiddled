@@ -68,10 +68,10 @@ file = "config/openloader/resources/GamersMiddled Resources/pack.mcmeta"
 file = "config/quark-common.toml"
 
 [[files]]
-file = "config/valkyrienskies/vs_core_server.json"
+file = "config/supplementaries-client.toml"
 
 [[files]]
-file = "defaultconfigs/xaerominimap.txt"
+file = "config/valkyrienskies/vs_core_server.json"
 
 [[files]]
 file = "mods/Structory-1.18.2-1.0.2.jar"
@@ -362,14 +362,6 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
