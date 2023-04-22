@@ -605,6 +605,11 @@ hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "f9487ba84b2eb937b586e75428f0b2e67e139023935641de107818202268f9c1"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
