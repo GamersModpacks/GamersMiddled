@@ -54,7 +54,7 @@ hash = "f186ceebc05a7e63a691de98186e319718198c74ad749706c5918581703d92fc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "72c84171dc14b775703254cccfc896b58f9b7ce6c2eedbe029938c56ace18617"
+hash = "dde1101d0936ba2ef9815e26e359528498a420982e01f8a4b1dca60da76f847c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -180,10 +180,6 @@ file = "config/tips.json"
 hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 
 [[files]]
-file = "config/valkyrienskies/vs_core_server.json"
-hash = "25caa2de3e39df8191eb1d339528386940a6f11c7a731819773d37aeb1c5ba28"
-
-[[files]]
 file = "defaultconfigs/xaerominimap.txt"
 hash = "281c8f02f069b11d90bcf2df77544b6e236f29dd83f96a1c87a0eb7e53bd844c"
 
@@ -212,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.pw.toml"
-hash = "39a53b27a76906131170e96a602e7f4c7ae2b9667d6c53fb9b1fa26a5aeeb389"
+hash = "740db250d501ef36bfb039c22ddee10513efdecf6fc6b9253d365947ba8db880"
 metafile = true
 
 [[files]]
@@ -602,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
+hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
 
 [[files]]
@@ -672,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "598fb0ff210d25e9c89975f740d1caebc869dad96c0a81a3c78eb90175745031"
+hash = "4b32494a860c8e4184320b227eaf6a5126b173d2309d2f82ef383cfe1ea77700"
 metafile = true
 
 [[files]]
