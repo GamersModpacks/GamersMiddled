@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
+hash = "beb995f27844526fc7e1b7c5fdcc757317d7db76dad8b5b2c9bdf4e84e0c7f3a"
+
+[[files]]
+file = "CustomSkinLoader/LocalSkin/skins/Lullabay4.png"
+hash = "cc8de2becd5d2279df31fe3245857846e62dc531f15b6b46fcfa63510c4a91ee"
+
+[[files]]
+file = "CustomSkinLoader/LocalSkin/skins/SUKA_UwU_BLYAT.png"
+hash = "44d5509fa62b8b01bbda10b6d6f01b7c26d73a2ff4d225f0a9c498531692e1e7"
 
 [[files]]
 file = "ForgePackBase.png"
