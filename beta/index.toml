@@ -18,7 +18,7 @@ hash = "826e09ba7894c36d6b53774d5c079e957f10001da38225e17696659874bbb35c"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "cd05fbf12522e86e8196704b55543d3e105f4da8eccadf51b2d356493e3e05e9"
+hash = "4a761d591da024175e581ceb25d486257509bc0b072d7b869cb23b0143daac88"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -58,11 +58,11 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "f186ceebc05a7e63a691de98186e319718198c74ad749706c5918581703d92fc"
+hash = "0a5ca28c6fb7413871cebef64bc06f1e17fef68a4b657d946290c2f817b5742a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "dde1101d0936ba2ef9815e26e359528498a420982e01f8a4b1dca60da76f847c"
+hash = "c24bd636fead05a32ef9d1dabfb856e19c6c0baa55c88d1121a9bff183a991f9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -74,15 +74,15 @@ hash = "8cd2db213f13fe82d3f8c6cb06100ed0397b068b0861a73dae06b33994267d7c"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "cb02ce35109b85061e557b9969937d410503d1f51db26e513a988baa432b9b54"
+hash = "7951e2ffc12851e83967b6d8e41c81869764ff47638f9e8843c93abe21e5fb85"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "f18121a44fc39ed5f45c1af13e913327d52be8634179992558491808f3c0b5a8"
+hash = "264853771fcfc4837b2d9811e59a9a4f1c8f7051ed38a824ef6315293b38df23"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "29426cd8db794b4e96417be9418cadfb500c2af461c7ffe79a70d501bb3600cb"
+hash = "15d8477e224ef690690e6972754cd25079f208ea113e298a16c11590bf52bf19"
 
 [[files]]
 file = "config/fancymenu/resources/background.png"
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "ddc71713e72b939212782a2bb31624a64f42d00a99fafd65ce6192851b499f3e"
+hash = "1d691db2eccf1a3847ed4ac5eebd3c16b8759051087bb10159d2432caee0689c"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "0bff0ae5a33f4bf5c1087474bf61f1ced52f0b8bec46d5c48476ead4ea5c4875"
+hash = "23ca4c81b00500230b49597a133a41ba178a1d9b9903bc610b030809e167295a"
 metafile = true
 
 [[files]]
@@ -470,8 +470,13 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
+file = "mods/guide-api-village-and-pillage.pw.toml"
+hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
-hash = "075a70282743ae2ebd01224012873f178e4088f257969b74e35bb0db579c6611"
+hash = "0308b58661d667ae6827a817ecb1e55578ce04988593ee8db626dcd7f3c57d35"
 metafile = true
 
 [[files]]
@@ -686,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1e6edc81e678ea6fd338ac67a769e25dc2a4a58fa2ff021ca069d0d37661ba68"
+hash = "b6b498a9f1b80adbfe34254dd53f00b875deac0e63f7672d4e6f452bcaf5e08f"
 metafile = true
 
 [[files]]
