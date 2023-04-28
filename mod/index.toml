@@ -131,7 +131,6 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "4e852c56007b6e30c60e33c84a76210bf67a4122dbc3541c9a0ab633d02b3864"
 metafile = true
 
 [[files]]
@@ -171,7 +170,6 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "d22e39f722bf8ef2c78d1287422bb05a159837ca0ee1f304bba2f8f75173da18"
 metafile = true
 
 [[files]]
@@ -185,13 +183,25 @@ hash = "d55316444d7e043f98be66c1bc2c321422dca793ac911036d9e38d5bc0ed6d9d"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
 metafile = true
 
 [[files]]
@@ -246,7 +256,6 @@ metafile = true
 
 [[files]]
 file = "mods/eureka-ships.pw.toml"
-hash = "48bee51017cb5a5fce0780e3ac092b73d98cb5ce22aa4d8ce32d34fbb9b53b11"
 metafile = true
 
 [[files]]
@@ -257,6 +266,10 @@ metafile = true
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
 metafile = true
 
 [[files]]
@@ -301,7 +314,6 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
 metafile = true
 
 [[files]]
@@ -311,7 +323,6 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d2293f4c4900813cb2b8843735ff4fd4a66cae187d1c208cfc6c07e1a66ba71e"
 metafile = true
 
 [[files]]
@@ -321,7 +332,6 @@ metafile = true
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
-hash = "840b4fbba0e52bba1805a42e7a1d6faa424a23cc56c4ddeb4ffdffa6407fd0cb"
 metafile = true
 
 [[files]]
@@ -371,7 +381,6 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "4d6310ca9a4cf607116540cfb0282536728d90852388f0abca94c820f92a4482"
 metafile = true
 
 [[files]]
@@ -396,7 +405,6 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "59583b3b0263c1d2a6bd7210eef0bfaeadcbf6482e8c331f6b5a114dc976e3ca"
 metafile = true
 
 [[files]]
@@ -416,7 +424,6 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5afd2bbb038204601b83adbb9ed9408be06fc3c6d88f334e7631e59c2dd91252"
 metafile = true
 
 [[files]]
@@ -446,7 +453,6 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "59e4f827ee3454a896f49ec72a98c4dad7de3a329bab60f6f73be54aca66f5e1"
 metafile = true
 
 [[files]]

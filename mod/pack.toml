@@ -1,12 +1,11 @@
 name = "GamersMiddled"
 author = "Gamers"
-version = "1.6"
+version = "1.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6486c3f98dfbcfe51719d2e37966fe56849898b6fdaf4e291df0d5c4c9dfc00c"
 
 [versions]
 forge = "40.2.2"
