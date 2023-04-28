@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "851ed012b6c5cd0bfa860a95a80dfac109ca730c63c2f3113df8c054e55dd451"
+hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
 metafile = true
 
 [[files]]
