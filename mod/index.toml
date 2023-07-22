@@ -1,15 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CustomSkinLoader/CustomSkinLoader.json"
-
-[[files]]
-file = "CustomSkinLoader/LocalSkin/skins/Lullabay4.png"
-
-[[files]]
-file = "CustomSkinLoader/LocalSkin/skins/SUKA_UwU_BLYAT.png"
-
-[[files]]
 file = "config/bcc-common.toml"
 
 [[files]]
@@ -43,6 +34,9 @@ file = "config/fancymenu/resources/logo.png"
 file = "config/iceandfire-client.toml"
 
 [[files]]
+file = "config/logbegone.toml"
+
+[[files]]
 file = "config/minecolonies-server.toml"
 
 [[files]]
@@ -53,6 +47,10 @@ file = "config/openloader/advanced_options.json"
 
 [[files]]
 file = "config/openloader/data/Create+Airship+Recipes+1.0.zip"
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"
+metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
@@ -81,9 +79,6 @@ file = "config/quark-common.toml"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-
-[[files]]
-file = "mods/Structory-1.18.2-1.0.2.jar"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
@@ -118,6 +113,10 @@ file = "mods/bookshelf.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/born-in-chaos.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 metafile = true
 
@@ -130,7 +129,7 @@ file = "mods/caelus.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
+file = "mods/choicetheorems-overhauled-village.pw.toml"
 metafile = true
 
 [[files]]
@@ -143,10 +142,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-confectionery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
 metafile = true
 
 [[files]]
@@ -174,18 +169,6 @@ file = "mods/domum-ornamentum.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dtbop.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-vampirism.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ecologics.pw.toml"
 metafile = true
 
@@ -210,10 +193,6 @@ file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/forgeendertech.pw.toml"
 metafile = true
 
@@ -230,7 +209,19 @@ file = "mods/ice-and-fire-dragons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/it-takes-a-pillage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/knight-quest.pw.toml"
 metafile = true
 
 [[files]]
@@ -238,7 +229,15 @@ file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/l_ender-s-cataclysm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libx.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lucent.pw.toml"
 metafile = true
 
 [[files]]
@@ -298,11 +297,19 @@ file = "mods/pehkui.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pizzacraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/prelaws-blocky-siege.pw.toml"
 metafile = true
 
 [[files]]
@@ -362,14 +369,6 @@ file = "mods/the-graveyard-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/the-wild-backport.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 metafile = true
 
@@ -402,7 +401,15 @@ file = "mods/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
 metafile = true
 
 [[files]]
