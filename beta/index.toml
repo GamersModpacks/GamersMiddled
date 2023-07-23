@@ -779,11 +779,6 @@ hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
 metafile = true
 
 [[files]]
-file = "mods/tough-as-nails.pw.toml"
-hash = "bf96a2e4c45291ae9b4ad206c0df9f7c9c7fb07f3701495c53d8f8531527f410"
-metafile = true
-
-[[files]]
 file = "mods/untamedwilds.pw.toml"
 hash = "23fcc3bc9ceebaef602d0370664a29f15a896ca5770752bbb042cf24cc0fc259"
 metafile = true

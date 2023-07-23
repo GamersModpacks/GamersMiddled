@@ -377,10 +377,6 @@ file = "mods/tinkers-construct.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tough-as-nails.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/untamedwilds.pw.toml"
 metafile = true
 
