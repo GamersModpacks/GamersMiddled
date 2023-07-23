@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
-hash = "664fa6ab27d44131d1dc7dca2f48aa42377ce0ca88da9dfbc73500555e7f9449"
+hash = "4e143afe0a000f08dce07a7b0074be52e206e6bc97c67113e18fcc7f842905e9"
 metafile = true
 
 [[files]]
@@ -704,6 +704,11 @@ hash = "24c7e65ca0930522f9156777c79b81fae425e24546aebdfafc91f9e57710aaaa"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6bc3362adf258190d51f629a8a5c570e4592011568a71f70de2255363f246ec5"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "f996c8739e784cd806269beeea770126da21e219bcdf0a4ddc91d9600b07ffc2"
 metafile = true
@@ -771,6 +776,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "bf96a2e4c45291ae9b4ad206c0df9f7c9c7fb07f3701495c53d8f8531527f410"
 metafile = true
 
 [[files]]

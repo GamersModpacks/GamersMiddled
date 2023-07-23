@@ -337,6 +337,10 @@ file = "mods/shroom-dealers.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 metafile = true
 
@@ -370,6 +374,10 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
 metafile = true
 
 [[files]]
