@@ -1,6 +1,6 @@
 name = "GamersMiddled"
 author = "Gamers"
-version = "1.9"
+version = "1.9.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
