@@ -6,7 +6,7 @@ hash = "913d02442fd5fcf9488374466fcd9787ae163e196a7a6ada9140143361ce19f6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "30f2201ff791b9c493810b346fd9de64e453acdce0b526b0961db5a5d84adc15"
+hash = "6a0b5bbfc2fbb07999903bcc1428ec816caf7eb1ebfb5e1d47fbd2725138bb1d"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -50,7 +50,7 @@ hash = "8e518e28f21bd150040469d18cfb183ae272750995a65313da8b37839f19008f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "b66ec6391becb3fce3d4d8277a204a5632d1830efd2139511163add9810dfa90"
+hash = "5104ac27638aa15e24cf7a6de16a8f63ccd923ace217463e152e5960576d4ab2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -113,10 +113,6 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
-file = "config/openloader/data/Create+Airship+Recipes+1.0.zip"
-hash = "30bc09ee11e56a066c68b78b843b4858fe0ecd57272e3b0066489789dab431a7"
-
-[[files]]
 file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"
 hash = "dc0f65cd04ced988d7506eeaae8ff0ce7217c92f148477263ef8375fc65bb6f4"
 metafile = true
@@ -125,10 +121,6 @@ metafile = true
 file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
 hash = "e33602eeae50447d004c33c2ecbe8b9c6f9fd7a0b63b4d82ae94818f6e8172aa"
 metafile = true
-
-[[files]]
-file = "config/openloader/resources/Eureka+Create+1.0.zip"
-hash = "782745e07d612cb285e0071ebb8ee9954bfb1879b8fde3998d9a2225a0cad097"
 
 [[files]]
 file = "config/openloader/resources/ForgePackBase Resources/assets/tipsmod/lang/ru_ru.json"
@@ -390,11 +382,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
-metafile = true
-
-[[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "bf48a4f0ed654146397ce5ed3f5b47b62dacdd6b4e81a5b1ef42c5c273958b2f"
 metafile = true
 
 [[files]]
@@ -785,11 +772,6 @@ metafile = true
 [[files]]
 file = "mods/untamedwilds.pw.toml"
 hash = "23fcc3bc9ceebaef602d0370664a29f15a896ca5770752bbb042cf24cc0fc259"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "9e678eb389661ec070d6adc97e423b6b3b7da876c738dd59ffe3c2d3d1b25489"
 metafile = true
 
 [[files]]
