@@ -50,7 +50,7 @@ hash = "8e518e28f21bd150040469d18cfb183ae272750995a65313da8b37839f19008f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "5689942ff2696e1ff19e3f12b58fd417cbd6efb2131bcb9be59e7756279d9c5e"
+hash = "b66ec6391becb3fce3d4d8277a204a5632d1830efd2139511163add9810dfa90"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -179,6 +179,10 @@ hash = "02d581e68085012db59934cd2e6ed80b55be9f06a480c0a0ba2a46bfc0fc24fd"
 [[files]]
 file = "config/tips.json"
 hash = "21b1e5be83c73f6b87dd918486469a8da1ce9945f92dc1faa4cce70f1f53bbc8"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "e793df2087b15ff4350ca59c4f92daf5f8d36fb32df419f67738ba46591307c2"
 
 [[files]]
 file = "config/xaerominimap.txt"

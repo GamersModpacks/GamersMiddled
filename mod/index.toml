@@ -81,6 +81,9 @@ file = "config/quark-common.toml"
 file = "config/supplementaries-client.toml"
 
 [[files]]
+file = "config/voicechat/voicechat-client.properties"
+
+[[files]]
 file = "mods/advanced-chimneys.pw.toml"
 metafile = true
 
