@@ -46,18 +46,12 @@ file = "config/mythicbotany.json5"
 file = "config/openloader/advanced_options.json"
 
 [[files]]
-file = "config/openloader/data/Create+Airship+Recipes+1.0.zip"
-
-[[files]]
 file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
 metafile = true
-
-[[files]]
-file = "config/openloader/resources/Eureka+Create+1.0.zip"
 
 [[files]]
 file = "config/openloader/resources/GamersMiddled Resources/assets/apotheosis/lang/ru_ru.json"
@@ -181,10 +175,6 @@ metafile = true
 
 [[files]]
 file = "mods/enigmatic-legacy.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/eureka-ships.pw.toml"
 metafile = true
 
 [[files]]
@@ -381,10 +371,6 @@ metafile = true
 
 [[files]]
 file = "mods/untamedwilds.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
 metafile = true
 
 [[files]]
