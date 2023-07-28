@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "913d02442fd5fcf9488374466fcd9787ae163e196a7a6ada9140143361ce19f6"
+hash = "a89818faa8931e6c6ac6b48c99f05aa49ee6cd30397a4e3184cd0b8890528f1c"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6a0b5bbfc2fbb07999903bcc1428ec816caf7eb1ebfb5e1d47fbd2725138bb1d"
+hash = "80fa7b3af4ddf46a52d0bfdcd9997fdfad6f26d08b2df70c753ba6abb2eb30e4"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -46,11 +46,11 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "8e518e28f21bd150040469d18cfb183ae272750995a65313da8b37839f19008f"
+hash = "c8cf48027bfec00ec67d1d218172c9e70bccdc4c9cff96f843e433a55d819e69"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "5104ac27638aa15e24cf7a6de16a8f63ccd923ace217463e152e5960576d4ab2"
+hash = "d9c8977d2075d5b5878741f799b5c763f421613112d1dfb30f49918e0caec46b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -550,6 +550,11 @@ hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
 metafile = true
 
 [[files]]
+file = "mods/modern-startup-qol.pw.toml"
+hash = "412213a57caae3e3cb761ac6e6f14cb14dc845fab10cbabbbe5c3d981ef74e62"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "eab360710dfebe9b6f7f5c260acfc8275663db2245c85a1e436a78d8e7531dd5"
 metafile = true
@@ -630,6 +635,11 @@ hash = "be7cc77d72d8c59ddc3d83bdb4d29404e42441c19a360045d44570d2db012cfb"
 metafile = true
 
 [[files]]
+file = "mods/projecte.pw.toml"
+hash = "824ad9a385cce61265f09bbc1eb1666756a8ba84a3870e4bed9a92b5ce7a70f8"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "71012cc14a6577562c63b9503c4a730f63fb633a2fc4d291a5d9514115ef43e0"
 metafile = true
@@ -671,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+hash = "7cfcda9ba0dcba7d302f9ea1694e9a420b8e214b3094093d7ded6c5d4a3a6d92"
 metafile = true
 
 [[files]]
@@ -696,12 +706,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6bc3362adf258190d51f629a8a5c570e4592011568a71f70de2255363f246ec5"
+hash = "585fd0057dc8f324bfc554fbeafc42ff155b4c93f1c0ae59aec48d053ca00dda"
 metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "f996c8739e784cd806269beeea770126da21e219bcdf0a4ddc91d9600b07ffc2"
+hash = "2fbb9966c240ad7c225ad73ddb4619c585838195424e0638106be32b5175d288"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "abd17aa4ace74bc80d5269d6082b80a085f08f53595544b26a97641d61110850"
 metafile = true
 
 [[files]]
@@ -711,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0866eec76506349842436646b3d70dd8afa6f7fd49b1ac6e16aeca61be4fd94b"
+hash = "9f5fdf50827fd341f2b52455da5c6efdf6c5331d083eb06251ae00a07f4b4cb7"
 metafile = true
 
 [[files]]
@@ -795,8 +810,8 @@ hash = "01399fef27404a511bfc9b6dad93773e1847c394e86d258d4fa1f3ef9171288c"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "68ce757dd50476f337b67633fd2e42b97ff0494aae7914673052229341f92ff0"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "308a1ca4017c16de72fb5548366b591102adba83489d35827eb622fc455be1ac"
 metafile = true
 
 [[files]]

@@ -306,6 +306,10 @@ file = "mods/prelaws-blocky-siege.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/projecte.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
