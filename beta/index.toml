@@ -410,6 +410,11 @@ hash = "529c82bb9c085fb98ee4e428eec8de8cd6d9563295ce80c7afc6c4c53bd7de8b"
 metafile = true
 
 [[files]]
+file = "mods/structurize.pw.toml"
+hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "a7f1383fabe6d006170e05aaa448df76e4fbd55b87fc7d03c2660a3a40b333e5"
 metafile = true
