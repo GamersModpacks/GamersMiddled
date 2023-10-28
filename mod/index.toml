@@ -25,16 +25,13 @@ file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 
 [[files]]
-file = "config/fancymenu/resources/background.png"
+file = "config/fancymenu/resources/background.jpg"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
 
 [[files]]
 file = "config/iceandfire-client.toml"
-
-[[files]]
-file = "config/logbegone.toml"
 
 [[files]]
 file = "config/minecolonies-server.toml"
@@ -283,10 +280,6 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.pw.toml"
 metafile = true
 
 [[files]]

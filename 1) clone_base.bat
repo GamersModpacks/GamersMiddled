@@ -1,5 +1,5 @@
 @echo off
-git clone https://github.com/Den4enko/ForgePackBase base
+git clone https://github.com/Den4enko/PackFramework base
 cd base
-git checkout 1.18.2
+git checkout forge/1.18.2
 @pause
