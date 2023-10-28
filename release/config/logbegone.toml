@@ -1,5 +1,5 @@
 
 [logbegone]
 	regex = [""]
-	phrases = ["net.minecraft.stats.ServerRecipeBook", "net.minecraft.world.level.entity.PersistentEntitySectionManager", "or.va.co.im.pi.VSGamePipelineStage", "VS2 Get Entities Mixin"]
+	phrases = ["net.minecraft.stats.ServerRecipeBook", "net.minecraft.world.level.entity.PersistentEntitySectionManager"]
 

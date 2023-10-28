@@ -3,11 +3,11 @@ filename = "Log-Begone-Forge-1.18-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/nYO2EEJH/Log-Begone-Forge-1.18-1.0.4.jar"
 hash-format = "sha1"
 hash = "f113c5f57b0847289d2962206e83330b96192b8f"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "9ON3zv6e"
-version = "nYO2EEJH"
+[update.curseforge]
+file-id = 4521572
+project-id = 623560
